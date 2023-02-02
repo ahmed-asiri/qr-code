@@ -59,3 +59,15 @@ body {
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
+
+
+@media screen and (max-width: 375px) {
+    body {
+        padding: 0 25px;
+    }
+
+    .card {
+        max-width: 280px;;
+        width: 100%;
+    }
+}
