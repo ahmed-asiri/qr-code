@@ -19,7 +19,7 @@ body {
 .card {
     background-color: #fff;
     width: 280px;
-    padding: 20px;
+    padding: 12px;
     border-radius: 15px;
     box-shadow: 0 2px 30px .2px rgba(0, 0, 0, .16);
 }
@@ -35,8 +35,9 @@ body {
     display: flex;
     flex-direction: column;
     row-gap: 15px;
-    margin: 10px 0;
-    font-size: 15px;
+    margin: 15px 0;
+    font-size: 14px;
+    padding: 0 5px;
 }
 
 .card__content--title {
