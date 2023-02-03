@@ -36,12 +36,12 @@ body {
     flex-direction: column;
     row-gap: 15px;
     margin: 15px 0;
-    font-size: 14px;
+    font-size: 15px;
     padding: 0 5px;
 }
 
 .card__content--title {
-    font-size: 19px;
+    font-size: 15px;
     font-weight: 700;
 }
 
